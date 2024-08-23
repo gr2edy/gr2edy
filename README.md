@@ -1,8 +1,9 @@
 I'm Minseok Kim in Korea
 
-Interested with Data Science, Economics, Supply-Chain, AI/ML
+Interested with Data Science, Economics, User Data, Business Development, AI/ML
 
 Oprated Cafe @nolonezone_coffee since 2018
+Worked at mobility company Jin Mobility, Socar
 
 **Study**
 
@@ -14,4 +15,4 @@ Fast Campus (2021.02~05)
 
 **Skills**
 
-Python, MySQL, R, Tableau, GA
+Python, MySQL, R, Tableau, GA, Looker Studios, Google workspace, Slack, Notion
